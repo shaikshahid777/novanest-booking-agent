@@ -1,0 +1,14 @@
+{
+  "caller_first_name": "Mia",
+  "caller_last_name": "Torres",
+  "caller_phone": "3125550247",
+  "caller_email": "mia.torres@email.com",
+  "service_type": "Buyer Consultation",
+  "preferred_window_1": "Tuesday October 13 at 10:00 AM CT",
+  "preferred_window_2": "Wednesday October 14 at 2:00 PM CT",
+  "preferred_window_3": "Thursday October 15 at 11:00 AM CT",
+  "caller_timezone": "",
+  "booking_notes": "Prefers a video call if possible.",
+  "request_type": "New",
+  "original_booking_reference": ""
+}
